@@ -8,6 +8,7 @@ public class Zmienne {
 
         System.out.println(liczba1);
 
+
         liczba1 = (int)liczba2;
 
         System.out.println(liczba1);
