@@ -33,5 +33,13 @@ public class Zmienne {
         boolean twierdzenie = false; //true
 
         //git.scm
+        // https://github.com/przemjan/trzeciaBgr1
+
+        //      windows r
+        //
+        //      \\ubuckp
+
+        // public /janisz
+
     }
 }
