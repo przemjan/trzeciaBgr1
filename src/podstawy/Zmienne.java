@@ -1,3 +1,5 @@
+package podstawy;
+
 public class Zmienne {
     public static void main(String[] args) {
 
@@ -42,6 +44,7 @@ public class Zmienne {
         potega = Math.pow(2, 3);
 
         //git.scm
+
         // https://github.com/przemjan/trzeciaBgr1
 
         //      windows r
