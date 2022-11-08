@@ -33,6 +33,14 @@ public class Zmienne {
 
         boolean twierdzenie = false; //true
 
+
+        double liczba4 =2;
+        double liczba5 = 3;
+        double potega;
+
+        //
+        potega = Math.pow(2, 3);
+
         //git.scm
         // https://github.com/przemjan/trzeciaBgr1
 
