@@ -40,7 +40,7 @@ public class Zmienne {
         double liczba5 = 3;
         double potega;
 
-        //
+        //2 do trzeciej
         potega = Math.pow(2, 3);
 
         //git.scm
